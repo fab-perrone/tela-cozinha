@@ -1,0 +1,6 @@
+{
+  "name": "BurgerKDS - Tela da Cozinha",
+  "description": "Sistema de recebimento de pedidos em tempo real para tela da cozinha de hamburgueria integrado ao Supabase com cronômetro de espera, itens e observações.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
